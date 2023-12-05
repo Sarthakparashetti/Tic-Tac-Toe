@@ -1,4 +1,4 @@
-Hello, this is my personal portfolio website which includes HTML, CSS and part of bootstrap. This website has a Home page, About page, Skill page, Social page and a Contact us page.
+Hello, this is a game known as "Tic Tac Toe". This is done using React.js, and coding using HTML and CSS. It is a simple game which uses React.js to react where the user taps and who won the match. 
 
 Key features:
 
